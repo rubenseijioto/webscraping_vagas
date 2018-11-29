@@ -5,11 +5,11 @@ Esse repositório visa a coletar as vagas de Data Science nos portais de emprego
 
 ## Contribuição
 * A planilha com os sites a serem raspados está disponível em: https://goo.gl/HqdyxW
-* Para contribuir com o projeto siga as guidelines do arquivo contributing.md
-* Os contribuidores do projeto estão disponíveis no arquivo CONTRIBUTORS
+* Para contribuir com o projeto siga as guidelines do arquivo [contributing.md](contributing.md)
+* Os contribuidores do projeto estão disponíveis no arquivo [CONTRIBUTORS](CONTRIBUTORS)
 
 ## Estudo
-Links com materiais para estudo estão disponíveis no arquivo Referencias.md
+Links com materiais para estudo estão disponíveis no arquivo [Referencias.md](Referencias.md)
 
 ## Progresso
 |Site|Etapa|
