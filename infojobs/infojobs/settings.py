@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for vagas project
+# Scrapy settings for infojobs project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'vagas'
+BOT_NAME = 'infojobs'
 
-SPIDER_MODULES = ['vagas.spiders']
-NEWSPIDER_MODULE = 'vagas.spiders'
+SPIDER_MODULES = ['infojobs.spiders']
+NEWSPIDER_MODULE = 'infojobs.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'vagas (+http://www.yourdomain.com)'
+#USER_AGENT = 'infojobs (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'vagas.middlewares.VagasSpiderMiddleware': 543,
+#    'infojobs.middlewares.InfojobsSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'vagas.middlewares.VagasDownloaderMiddleware': 543,
+#    'infojobs.middlewares.InfojobsDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'vagas.pipelines.VagasPipeline': 300,
+#    'infojobs.pipelines.InfojobsPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

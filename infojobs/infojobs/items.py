@@ -8,7 +8,7 @@
 import scrapy
 
 
-class VagasItem(scrapy.Item):
+class InfojobsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
