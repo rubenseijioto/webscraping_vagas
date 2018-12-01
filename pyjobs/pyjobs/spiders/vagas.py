@@ -1,5 +1,5 @@
 """
-@author: Rubens
+@author: Rubens Oto
 """
 import scrapy
 from unicodedata import normalize
