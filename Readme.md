@@ -28,7 +28,7 @@ Links com materiais para estudo estão disponíveis no arquivo [Referencias.md](
 |[Fundep UFMG](http://www.fundep.ufmg.br/vagas/vagas-projetos/)|não iniciado|
 |[Glassdoor](https://www.glassdoor.com/developer/index.htm)|não iniciado|
 |[Indeed](https://www.indeed.com.br/)|não iniciado|
-|[InfoJobs](https://www.infojobs.com.br/)|não iniciado|
+|[InfoJobs](https://www.infojobs.com.br/)|em progresso|
 |[Linkedin](https://www.linkedin.com)|não iniciado|
 |[Lovemondays](https://www.lovemondays.com.br/)|não iniciado|
 |[Manager](https://www.manager.com.br/)|não iniciado|
