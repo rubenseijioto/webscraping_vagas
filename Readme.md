@@ -32,7 +32,7 @@ Links com materiais para estudo estão disponíveis no arquivo [Referencias.md](
 |[Linkedin](https://www.linkedin.com)|não iniciado|
 |[Lovemondays](https://www.lovemondays.com.br/)|não iniciado|
 |[Manager](https://www.manager.com.br/)|não iniciado|
-|[PyJobs](http://www.pyjobs.com.br/)|não iniciado|
+|[PyJobs](http://www.pyjobs.com.br/)|em progresso|
 |[Revelo](https://www.revelo.com.br/)|não iniciado|
 |[Seederjobs](http://www.seederjobs.com/)|não iniciado|
 |[Vagas](https://www.vagas.com.br/)|não iniciado|
